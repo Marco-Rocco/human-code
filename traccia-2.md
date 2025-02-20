@@ -8,3 +8,17 @@ Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in gi
 
 #### soluzione
 
+- raccogli la pratica
+- dirigiti allo scanner
+- collega lo scanner al pc
+- scannerizza la pratica
+    - inserisci i fogli nello scanner, uno alla volta
+    - avvia la scasione
+    - attendi che la scansione del primo lato del foglio sia finita
+    - gira il foglio che si trova nello scanner
+    - attendi che la scansione del secondo lato del foglio sia finita
+    - rimuovi il foglio e aggiungi quello dopo
+    - ripeti FINCHÈ i fogli non sono finiti
+- sposta la pratica sul computer
+- inseriscila in una cartella apposita
+- assicurati che la pratica sia salvata e al sicuro
