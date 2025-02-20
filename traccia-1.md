@@ -6,9 +6,19 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 ---
 
 - fai la lista della spesa
+    - pensa a ciò che può servirti da mangiare
+    - di tutto quello a cui hai pensato, appunta ciò che manca
+        - prendi carta
+        - prendi penna
+        - scrivi FINCHÈ non hai scritto tutto ciò che serve
+        - riponi la penna dove l'hai trovata
+        - riponi la lista in tasca
 - prendi il necessario prima di uscire
 - dirigiti alla macchina
-- guida FINCHÈ non sei al supermercato
+- SE il supermercato è lontano
+    - prendi l'auto
+- ALTRIMENTI
+    - vai a piedi
 - fai la spesa seguendo la lista
 - paga
 - torna a casa
