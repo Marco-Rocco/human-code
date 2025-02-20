@@ -13,7 +13,22 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
         - scrivi FINCHÈ non hai scritto tutto ciò che serve
         - riponi la penna dove l'hai trovata
         - riponi la lista in tasca
+
 - prendi il necessario prima di uscire
+    - dirigiti all'ingresso
+    - prendi il portafogli
+    - SE ci sono soldi dentro
+        - metti il portafogli in tasca
+    - ALTRIMENTI
+        - va a prendere i soldi dal salvadanaio
+        - torna all'ingresso
+    - prendi le chiavi dell'auto
+    - prendi le chiavi di casa
+    - prendi il telefono
+
+- esci di casa
+    - chiudi a chiave la porta
+    
 - dirigiti alla macchina
 - SE il supermercato è lontano
     - prendi l'auto
